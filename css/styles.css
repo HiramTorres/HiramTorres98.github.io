@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #2da6e0;
+  color: #117a8b;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #010405;
+  color: #3d4041;
   text-decoration: underline;
 }
 
@@ -9777,11 +9777,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #285aa5 !important;
+  color: #117a8b !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #274b82 !important;
+  color: #117a8b !important;
 }
 
 .text-secondary {
